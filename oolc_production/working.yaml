@@ -1,0 +1,6 @@
+project_id: oomlout_three_d_printing_tooth_pick_orb_archimedian_solids
+project_name: Oomlout Three D Printing Tooth Pick Orb Archimedian Solids
+project_repo: https://github.com/oomlout/oomlout_three_d_printing_tooth_pick_orb_archimedian_solids
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
